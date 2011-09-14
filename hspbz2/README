@@ -1,0 +1,21 @@
+Codes which you can retrieve from other projects are not included in this repository.
+Please put the following files on this folder when you build.
+
+From Hot Soup Processor SDK:
+(Found at (where you install HSP)\hspsdk\hpi3sample)
+- hsp3debug.h
+- hsp3plugin.h
+- hsp3struct.h
+- hspvar_core.h
+
+From BZip2 source:
+(Found at http://bzip.org/downloads.html)
+- blocksort.c
+- bzlib.c
+- bzlib.h
+- bzlib_private.h
+- compress.c
+- crctable.c
+- decompress.c
+- huffman.c
+- randtable.c
