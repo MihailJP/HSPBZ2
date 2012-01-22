@@ -1,6 +1,4 @@
-del /q hspbz2\*
-del /q hspbz2.zip
-rmdir hspbz2
+rmdir /s /q hspbz2
 mkdir hspbz2
 copy hspbz2.dll hspbz2
 copy hspbz2.as hspbz2
